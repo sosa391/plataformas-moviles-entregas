@@ -1,0 +1,36 @@
+.titulo {
+    text-align: center;
+}
+
+
+.parrafo {
+    font-family: serif;
+}
+
+
+p#primer-parrafo {
+    background-color: #CEE;
+}
+
+
+#primer-parrafo em {
+    color: #933;
+}
+
+
+ .parrafo.novelas a  {
+    outline: 1px solid #333;
+}
+a{
+    outline: 1px solid #333;
+}
+
+
+.parrafo.fuente.parrafo {
+    opacity: 100%;
+}
+
+
+.parrafo:not([id]) {
+    text-shadow:none;
+}
